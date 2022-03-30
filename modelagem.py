@@ -1,4 +1,4 @@
-#%% tratamento roic
+#%%  importando as bibliotecas
 import pandas as pd
 import numpy as np
 from datetime import date
